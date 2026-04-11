@@ -9,7 +9,7 @@ I love finding how computers work and keeping the "bad guys" out of networks!
 * **🌐 Networking:** Learning how the internet talks with **Wireshark**.
 * **🔍 Searching:** Finding weak spots with **Nmap**.
 * **🐍 Coding:** Writing secret scripts with **Python**.
-* **🐧 System:** Playing inside the **Linux** terminal.
+* **🐧 System:** Playing inside the **![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)** terminal.
 
 ### 🏆 My Mission Logs (Top Projects)
 * [Network Traffic Analysis](LINK_TO_YOUR_REPO) - *Checking who is talking on the network.*
