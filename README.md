@@ -27,7 +27,7 @@ I love finding how computers work and keeping the "bad guys" out of networks!
 ---
 
 ### 🤝 Let's Be Friends!
-* Find me on [LinkedIn](YOUR_LINKEDIN_URL)
+* Find me on [LinkedIn](https://www.linkedin.com/in/nitesh-rauthan-cybersec/)
 * See my progress on [TryHackMe](YOUR_THM_URL)
 
 "Stay safe, stay curious!" 🚀
