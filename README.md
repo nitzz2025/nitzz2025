@@ -1,33 +1,21 @@
-# Hi there, I'm Nitesh Rauthan! 👋 🕵️‍♂️
+# Nitesh Rauthan | Certified SOC Analyst & Incident Responder
 
-### 🛡️ I'm a Cyber Protector (SOC Analyst)
-I love finding how computers work and keeping the "bad guys" out of networks! 
+Objective-driven security professional holding Cisco SOC Analyst and ICTRD certifications. Specialized in threat detection, network reconnaissance, and automated defensive scripting. 
 
----
+## 🛠 Technical Stack
+* **Defensive Operations:** SIEM Frameworks, Endpoint Security, Log Analysis, Incident Response
+* **Offensive/Audit:** Kali Linux, Metasploit, Nmap, Vulnerability Assessment
+* **Scripting & Automation:** Python, Bash
+* **Environments:** Linux, Virtualized Security Home Labs
 
-## 🧰 My Spy Tools (Tech Stack)
+## 🚀 Operational Focus
+Actively engineering automated solutions for log parsing and vulnerability management, with a strict focus on bridging foundational infrastructure concepts with advanced threat detection methodologies.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-
----
-
-### 🔍 What I'm Learning:
-* **Networking:** Using **Wireshark** to see how the internet talks.
-* **Scanning:** Using **Nmap** to find open doors.
-* **Coding:** Using **Python** to build security tools.
-* **Systems:** Mastering the **Linux** terminal.
-
-### 🏆 My Mission Logs (Top Projects)
-* [Network Traffic Analysis](LINK_TO_YOUR_REPO) - *Checking who is talking on the network.*
-* [Vulnerability Scanner](LINK_TO_YOUR_REPO) - *Looking for open doors in a computer.*
+## 📂 Core Engineering Projects
+* **[soc-analyzer-pro](https://github.com/nitzz2025/soc-analyzer-pro):** Advanced, security-first SOC tool for analyzing web log anomalies.
+* **[linux-auth-log-parser](https://github.com/nitzz2025/linux-auth-log-parser):** Python-based utility utilizing memory-efficient generators for parsing Linux authentication logs to detect brute-force anomalies.
+* **[network-recon-audit](https://github.com/nitzz2025/network-recon-audit):** Automated network reconnaissance and vulnerability auditing aligned with the NIST Cybersecurity Framework.
+* **[nessus-vulnerability-assessment](https://github.com/nitzz2025/nessus-vulnerability-assessment):** Infrastructure vulnerability assessment, risk prioritization (CVSS), and remediation mapping using Tenable Nessus.
 
 ---
-
-### 🤝 Let's Be Friends!
-* Find me on [LinkedIn](https://www.linkedin.com/in/nitesh-rauthan-cybersec/)
-* See my progress on [TryHackMe](YOUR_THM_URL)
-
-"Stay safe, stay curious!" 🚀
+*Connecting technical competency with operational security.*
